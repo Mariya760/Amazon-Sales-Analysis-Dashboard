@@ -82,9 +82,6 @@ The dashboard focuses on important business metrics such as:
 
 <img width="604" height="338" alt="Amazon Sales Dashboard" src="https://github.com/user-attachments/assets/d597a373-8929-4773-9e24-4fb0e9e8461c" />
 
-
-## 📁 Project Files
-
 ## 📁 Project Files
 
 - `Amazon sales Dashboard.pbix` – Power BI dashboard
