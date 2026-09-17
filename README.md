@@ -64,11 +64,11 @@ The cleaned and analyzed data was used to create an interactive Power BI dashboa
 The dashboard focuses on important business metrics such as:
 
 * **Total Sales**
-* **Total Revenue**
+* **Total orders**
 * **Total Quantity Sold**
 * **Average Sales**
-* **Number of Orders**
-* **Product Performance**
+* **Total Tax**
+* **Shipping Cost**
 
 ## 🔍 Key Findings
 
@@ -80,15 +80,18 @@ The dashboard focuses on important business metrics such as:
 
 ## 📷 Dashboard Preview
 
-Add your Power BI dashboard screenshot here.
+<img width="604" height="338" alt="Amazon Sales Dashboard" src="https://github.com/user-attachments/assets/d597a373-8929-4773-9e24-4fb0e9e8461c" />
+
 
 ## 📁 Project Files
 
-* `README.md` – Project documentation
-* `Amazon_Sales_Dashboard.pbix` – Power BI dashboard
-* `Amazon_Sales_Data.csv` – Dataset used for analysis
-* `Amazon_Sales_Analysis.py` – Python data cleaning and analysis
-* `Amazon_Sales_Analysis.sql` – SQL queries used for analysis
+## 📁 Project Files
+
+- `Amazon sales Dashboard.pbix` – Power BI dashboard
+- `Amazon.xlsx` – Original dataset
+- `Amazon_Cleaned.xlsx` – Cleaned dataset
+- `Amazon_Sales.sql` – SQL queries used for data analysis
+- `Amazone.py` – Python data cleaning and analysis
 * `Amazon_Sales_Dashboard.png` – Dashboard preview
 
 ## 🚀 Project Outcome
